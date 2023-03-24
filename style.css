@@ -18,6 +18,7 @@ h1{
     font-size: 50px;
     letter-spacing: 4px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0,3);
 }
 
 .crash{
