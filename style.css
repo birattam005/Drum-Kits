@@ -1,6 +1,7 @@
 body{
     margin: 0;
     background-color: pink;
+    flex-wrap: wrap;
 }
 
 .container{
@@ -15,8 +16,8 @@ body{
 h1{
     color: white;
     font-size: 50px;
-    letter-spacing: 2px;
-    font-family:inherit;
+    letter-spacing: 4px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .crash{
