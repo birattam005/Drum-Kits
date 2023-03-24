@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    background-color: pink;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    letter-spacing: 2px;
+    font-family:inherit;
+}
+
+.crash{
+    border: none;
+    width: 150px;
+    height: 80px;
+    border-radius: 5px;
+    margin: 0 10px;
+    font-size:20px;
+    font-family: cursive;
+    color:gray;
+    background-image: url(images/crash.png);
+    background-size: cover;
+}
+
+.kick{
+    border: none;
+    width: 150px;
+    height: 80px;
+    border-radius: 5px;
+    margin: 0 10px;
+    font-size:20px;
+    font-family: cursive;
+    color: white;
+    background-image:url(images/kick.png);
+    background-size: cover;
+}
+
+.snare{
+    border: none;
+    width: 150px;
+    height: 80px;
+    border-radius: 5px;
+    margin: 0 10px;
+    font-size:20px;
+    font-family: cursive;
+    color: white;
+    background-image: url(images/snare.png);
+    background-size: cover;
+}
+
+.tom{
+    border: none;
+    width: 150px;
+    height: 80px;
+    border-radius: 5px;
+    margin: 0 10px;
+    font-size:20px;
+    font-family: cursive;
+    color: white;
+    background-image: url(images/tom.png);
+    background-size: cover;
+}
